@@ -14,6 +14,7 @@
         <jackson-core.version>2.9.9</jackson-core.version>
         <jackson-annotations.version>2.9.9</jackson-annotations.version>
         <jackson-databind.version>2.9.9</jackson-databind.version>
+        <enums_library.version>0.1-SNAPSHOT</enums_library.version>
     </properties>
 
     <dependencies>
@@ -37,6 +38,12 @@
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
             <version>${jackson-databind.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.raju</groupId>
+            <artifactId>enums_library</artifactId>
+            <version>${enums_library.version}</version>
         </dependency>
     </dependencies>
 
