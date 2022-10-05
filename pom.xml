@@ -13,7 +13,7 @@
         <lombok.version>1.18.8</lombok.version>
         <jackson-core.version>2.9.9</jackson-core.version>
         <jackson-annotations.version>2.9.9</jackson-annotations.version>
-        <jackson-databind.version>2.9.9</jackson-databind.version>
+        <jackson-databind.version>2.12.6.1</jackson-databind.version>
         <enums_library.version>0.1-SNAPSHOT</enums_library.version>
     </properties>
 
